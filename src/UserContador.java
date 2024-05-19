@@ -18,8 +18,5 @@ public class UserContador {
         }catch (ParametrosInvalidosException e){
             System.out.println("O primeiro numero precisa ser maior do que o segundo");
         }
-
-
-
     }
 }
